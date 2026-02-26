@@ -17,8 +17,8 @@ Producción – Brave
 5. Clic en "Registrarse"
 
 ## Resultado esperado:
-Notificación al usuario al ingresar un "Nombre" con caracteres no permitidos
-Impedimento al registrar
+1. Notificación al usuario al ingresar un "Nombre" con caracteres no permitidos
+2. Impedimento al registrar
 
 ## Resultado actual:
 1. No se visualiza una notificacion al usuario 
