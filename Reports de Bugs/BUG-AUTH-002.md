@@ -1,6 +1,6 @@
 # BUG-AUTH-LOGIN-002 | Validaciones del campo "Nombre de Usuario" (UserName)
 
-## Roesgo Asociado:
+## Riesgo Asociado:
 Medio
 
 ## Prioridad:
